@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Shagun Shukla!
+<p align="center">
+  <img src="intro.svg" alt="Hi, I'm Shagun Shukla" width="500">
+</p>
+
+---
 
 🚀 **Software Developer | AI & Machine Learning Enthusiast | Researcher**
 
@@ -7,6 +11,7 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Computer 
 ---
 
 ## 🚀 My Tech Stack
+
 - 💻 **Languages:** Python, C++, Java, MATLAB  
 - 📡 **Machine Learning:** TensorFlow, Keras, PyTorch  
 - 📊 **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
@@ -16,6 +21,7 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Computer 
 ---
 
 ## 📂 Latest Projects
+
 - 📌 **[Felis Taxonomy Image Classification](https://github.com/Shagun-4812/Felis-Taxonomy-Image-Classification)**  
   Classification of Felis Taxonomy images using **Transfer Learning** and **Fine-Tuning** of CNNs - InceptionV3, DenseNet121, and EfficientNetV2B0.
 
@@ -34,13 +40,17 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Computer 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shagun-4812&theme=dark)  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagun-4812&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun-4812&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagun-4812&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shagun-4812&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun-4812&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📌 Contributions & Achievements
+
 - ⭐ **Contributed to multiple open-source projects** in AI, Machine Learning, and Image Processing.  
 - 📊 **Published work on deep learning** classification models.  
 - 🔥 Passionate about **bridging research and industry applications**.  
@@ -48,15 +58,17 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Computer 
 
 ---
 
-## 🚀 Availability
+## 🗓️ Availability
+
 💼 **Open for collaboration and summer research internships from June to late August with full commitment.**
 
 ---
 
 ## 🚀 Let's Connect!
+
 - 🔗 **Portfolio:** [My Website](https://blue-tree-07393e200.4.azurestaticapps.net/)  
 - 📧 **Email:** shagunshukla4812@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/shagun-shukla-6747b9219](https://www.linkedin.com/in/shagun-shukla-6747b9219)  
+- 💼 **LinkedIn:** [linkedin.com/in/shagun-shukla-6747b9219](https://www.linkedin.com/in/shagun-shukla-6747b9219)
 
 ---
 
