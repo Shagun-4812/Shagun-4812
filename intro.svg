@@ -1,14 +1,14 @@
-<svg viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1400 150" xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
       font-family: 'Courier New', monospace;
-      font-size: 100px; /* Increased font size */
+      font-size: 100px;
       font-weight: bold;
     }
 
     .char {
       opacity: 0;
-      animation: appear 1s forwards; /* Slowed down animation */
+      animation: appear 1s forwards;
       text-shadow: 0 0 5px #fff, 0 0 10px #fff;
     }
 
@@ -28,8 +28,19 @@
     .char:nth-child(8)  { fill: #3f00ff; animation-delay: 2.4s; }
     .char:nth-child(9)  { fill: #a000ff; animation-delay: 2.7s; }
     .char:nth-child(10) { fill: #ff00aa; animation-delay: 3.0s; }
+    .char:nth-child(11) { fill: #ff0055; animation-delay: 3.3s; }
+    .char:nth-child(12) { fill: #ff7b00; animation-delay: 3.6s; }
+    .char:nth-child(13) { fill: #ffd800; animation-delay: 3.9s; }
   </style>
   <text x="20" y="100">
+    <tspan class="char">H</tspan>
+    <tspan class="char">I</tspan>
+    <tspan class="char">,</tspan>
+    <tspan class="char"> </tspan>
+    <tspan class="char">I</tspan>
+    <tspan class="char">'</tspan>
+    <tspan class="char">M</tspan>
+    <tspan class="char"> </tspan>
     <tspan class="char">S</tspan>
     <tspan class="char">H</tspan>
     <tspan class="char">A</tspan>
