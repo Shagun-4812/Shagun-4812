@@ -41,7 +41,8 @@
     <tspan class="char">I</tspan>
     <tspan class="char">'</tspan>
     <tspan class="char">M</tspan>
-    <tspan class="char">   </tspan> <!-- Extra spaces for better separation -->
+    <tspan class="char">   </tspan
+    <tspan class="char">   </tspan><!-- Extra spaces for better separation -->
     <tspan class="char">S</tspan>
     <tspan class="char">H</tspan>
     <tspan class="char">A</tspan>
