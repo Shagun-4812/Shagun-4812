@@ -66,7 +66,7 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Computer 
 
 ## 🚀 Let's Connect!
 
-- 🔗 **Portfolio:** [My Website]((https://shagun-4812.github.io/portfolio/))  
+- 🔗 **Portfolio:** [My Website](https://shagun-4812.github.io/portfolio/)
 - 📧 **Email:** shagunshukla4812@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/shagun-shukla-6747b9219](https://www.linkedin.com/in/shagun-shukla-6747b9219)
 
